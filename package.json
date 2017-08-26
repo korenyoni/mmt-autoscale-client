@@ -1,7 +1,7 @@
 {
-    "name": "triton-autoscale-client",
-    "version": "0.0.1",
-    "description": "client for triton-autoscale",
+    "name": "mmt-autoscale-follower",
+    "version": "0.0.2",
+    "description": "client for mmt-autoscale",
     "author": {
         "name": "Yonathan Koren <yonkornilov@live.com>",
         "url": "https://github.com/yonkornilov"

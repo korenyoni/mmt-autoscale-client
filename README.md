@@ -1,1 +1,1 @@
-# triton-autoscale-client
+# mmt-autoscale-follower

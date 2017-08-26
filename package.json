@@ -1,6 +1,6 @@
 {
-    "name": "mmt-autoscale-follower",
-    "version": "0.0.2",
+    "name": "mmt-autoscale-client",
+    "version": "0.0.3",
     "description": "client for mmt-autoscale",
     "author": {
         "name": "Yonathan Koren <yonkornilov@live.com>",

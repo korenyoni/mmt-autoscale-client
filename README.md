@@ -1,1 +1,1 @@
-# mmt-autoscale-follower
+# mmt-autoscale-client

@@ -1,0 +1,17 @@
+{
+    "name": "triton-autoscale-client",
+    "version": "0.0.1",
+    "description": "client for triton-autoscale",
+    "author": {
+        "name": "Yonathan Koren <yonkornilov@live.com>",
+        "url": "https://github.com/yonkornilov"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "latest",
+        "socket.io-client": "2.0.3"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}

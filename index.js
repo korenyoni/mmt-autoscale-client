@@ -14,7 +14,7 @@ publicIp.v4().then(ip => {
     });
     socket.on('request-load-avg', function(data){
         socket.emit('load-average', {
-            id: ip,
+            address: ip,
             load: os.loadavg()[0]
         });
     });
